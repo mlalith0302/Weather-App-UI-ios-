@@ -1,4 +1,5 @@
-# Weather-App-UI-ios-
+# Weather-App-UI-ios
+
 This is a very basic UI for a weather app created using SwiftUI for iOS,
 This is my first experience with SwiftUI,
 Used lineargradient to adjust the background colour,
